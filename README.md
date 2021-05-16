@@ -1,2 +1,0 @@
-# TindogWebDesign
-TinDog
